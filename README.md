@@ -15,7 +15,7 @@ Only a browser and a local web server.
 ### Instructions
 
 This runs on local wwbserver, this runs on python local server.
-`$ python3 -m http.server`
+`$ python -m http.server`
 
 Once the server is up and running, open your browser, and go to http://localhost:8000/.
 
